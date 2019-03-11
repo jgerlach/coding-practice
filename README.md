@@ -32,8 +32,9 @@ The are many types of function expressions.</pre>
 
 ### Would you be able to explain Object-oriented JavaScript and give examples?
 <pre>Technically everything in JavaScript is an Object. Using objects, classes, or constructor functions
-you can create reusable objects. It encapulates data so you write less code. Using constructor functions or classes
-is common when you are creating many instances of the same type of object. React is a good example of this.
+you can create reusable objects. It encapulates data so you write less code.
+Using constructor functions or classes is common when you are creating many instances of the same type of object.
+React is a good example of this.
 When creating a new component you extend React.Component, which allows you to use functionality
 that the React team has built in.</pre>
 
