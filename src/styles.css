@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+  }
+
+  .flex-container {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .heart {
+    font-size: 40px;
+    margin-right: 25px;
+  }
+  .img-wrapper {
+    margin-right: 10px;
+  }
+
+  h2 {
+    line-height: normal;
+    padding: 0;
+    margin: 0;
+  }
+
+  p {
+    padding: 0;
+    margin: 0;
+  }
